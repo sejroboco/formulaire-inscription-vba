@@ -68,10 +68,10 @@ Ce projet vise à développer une **application de gestion des inscriptions étu
 
 ## ✍️ Auteur
 
-- **Nom** : [Ton Nom ici]
-- **Statut** : Élève Ingénieur / Étudiant en Informatique / Data Analyst Junior
+- **Nom** : Sèjro Toussaint BOCO
+- **Statut** : Ingénieur Statisticien Economiste/ Ingénieur Data Scientist / Data Analyst Junior
 - **Langage** : VBA sous Excel
-- 📧 Contact : [ton.email@exemple.com]
+- 📧 Contact : sejroboco9@gmail.com
 
 ---
 
